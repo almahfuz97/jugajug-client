@@ -35,12 +35,14 @@ export default function Register() {
             name="fullName"
             placeholder="Your Full Name"
           />{" "}
+          <br />
           <input
             className=" drop-shadow rounded w-full p-4 mb-8 bg-gradient-to-r from-orange-200 to-blue-200 placeholder-blue-500  placeholder-opacity-50  text-blue-600"
             type="email"
             name="email"
             placeholder="Enter your email"
           />{" "}
+          <br></br>
           <input
             className=" drop-shadow rounded w-full p-4 mb-8 bg-gradient-to-r from-orange-200 to-blue-200 placeholder-blue-500  placeholder-opacity-50  text-blue-600"
             type="number"
